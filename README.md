@@ -1,2 +1,2 @@
 # randomGenArt
-data inspired generative art aka procastination
+data inspired generative art aka procrastination
